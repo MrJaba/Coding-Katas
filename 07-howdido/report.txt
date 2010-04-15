@@ -1,0 +1,31 @@
+Pass 1 (Good Things):
+---------------------
+
+1. Classes with clearly defined responsibilites and interface
+2. Uses the features of the language appropriately
+3. Well named methods
+4. Levels of abstraction per method are good
+5. Short methods in controllers - following conventions well
+6. RESTful controllers
+7. Abstracting conditionals
+8. Consistent vocabulary
+9. Appropriate use of design patterns - presenter
+10. correct use of inheritence
+
+Pass 2 (Evil things):
+---------------------
+
+1. methods too long
+2. mixing levels of abstraction 
+3. not using composed method
+4. method name not very explicit
+5. Confused API - trying to do too much
+6. repititon
+7. debug stuff left
+8. too many paths in some code
+9. nasty split being used when two indpendent variables would be better
+10. nasty finders could be done using named scopes
+11. some very confusing lines of code
+12. could wrap more conditionals
+13. classes attempting to do too much
+14. violations of SRP
