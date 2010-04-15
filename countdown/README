@@ -1,0 +1,3 @@
+This is a very simple Kata from http://codingkata.org/katas/unit/nasa-countdown.
+However I tried to make it more difficult by prohibiting the use of loops. I then took it one step further to try and do it without the use of functions so recursion was more tricky.
+I then took it one step further and used currying and the Y-combinator to show off and practice what I read in "The Little Schemer"
